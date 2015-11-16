@@ -22,8 +22,8 @@ use "data/scripts/init"
 use "data/widgets/init"
 
 
-local MOD_NAME = "DrSmugLib"
-local MOD_ID = "DRSMUGLIB"
+local MOD_NAME = "Player Despawner"
+local MOD_ID = "PLAYERDESPAWNER"
 local MOD_VERSION = "1.1"
 
 LogHelper:SetModName(MOD_NAME)

@@ -1,10 +1,10 @@
 -- Mod Information
-name = "DrSmugLib"
+name = "Player Despawner"
 description = [[A code library for mods to use
 Does nothing on it's own]]
 version = "1.1"
 author = "DrSmugleaf"
-id = "DRSMUGLIB"
+id = "PLAYERDESPAWNER"
 priority = 0
 api_version = 10
 
